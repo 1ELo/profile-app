@@ -2,7 +2,7 @@
 @section('container')
 
 <link rel="stylesheet" href="{{ asset('/css/app.css') }}">
-
+<!--Daniel Mantappp betulll  -->
 <style>
     .card {
         max-width: 1200px;
